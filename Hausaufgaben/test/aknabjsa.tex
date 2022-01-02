@@ -1,0 +1,41 @@
+\documentclass[ngerman]{scrartcl}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{babel}
+\usepackage{array}
+
+\usepackage{enumitem}
+\setlist[itemize]{nosep,label={\textbullet},leftmargin=*}
+
+\newcolumntype{P}[1]{>{\raggedright\arraybackslash}p{#1}}
+\renewcommand\arraystretch{1.25}
+\begin{document}
+    \begin{tabular}{@{}lP{6cm}@{}}
+      \textbf{Gebiet} & \textbf{Erläuterung} \\[5pt]
+      Gebiet 1 &
+        \begin{itemize}
+          \item Punkt 1 
+          \begin{itemize}
+            \item Unterpunkt 1
+            \item Unterpunkt 2
+            \item etc.
+          \end{itemize}
+          \item Punkt 2
+          \item Punkt 3
+          \item Punkt 4
+        \end{itemize}\\
+      Gebiet 2  & 
+        \begin{itemize}
+          \item Punkt a
+          \item etc.
+        \end{itemize}\\
+      Gebiet 3 & 
+        Hier steht Text\\
+      Gebiet 4 & 
+        Hier steht Text
+        \begin{itemize}
+          \item Punkt I
+          \item Punkt II
+        \end{itemize}
+    \end{tabular}
+\end{document}

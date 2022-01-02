@@ -1,0 +1,65 @@
+\babel@toc {ngerman}{}
+\contentsline {part}{\numberline {I}Überblick Gesteine}{3}{part.2}%
+\contentsline {chapter}{\numberline {1}Magmatite}{4}{chapter.3}%
+\contentsline {section}{\numberline {1.1}Plutonite}{4}{section.4}%
+\contentsline {section}{\numberline {1.2}Vulkanite}{4}{section.5}%
+\contentsline {chapter}{\numberline {2}Sedimente und Sedimentgesteine}{5}{chapter.6}%
+\contentsline {section}{\numberline {2.1}Bildung}{5}{section.7}%
+\contentsline {section}{\numberline {2.2}klastische Sedimente}{6}{section.12}%
+\contentsline {section}{\numberline {2.3}chemische Sedimente}{6}{section.13}%
+\contentsline {section}{\numberline {2.4}biogene Sedimente}{6}{section.14}%
+\contentsline {section}{\numberline {2.5}Farbe von Sedimentgesteinen}{7}{section.15}%
+\contentsline {section}{\numberline {2.6}wichtige Minerale in Sedimentgesteinen}{7}{section.16}%
+\contentsline {part}{\numberline {II}Gesteinsbestimmung von Sedimenten}{8}{part.17}%
+\contentsline {chapter}{\numberline {3}Äußerliche Merkmale}{9}{chapter.18}%
+\contentsline {section}{\numberline {3.1}Farbe}{9}{section.19}%
+\contentsline {section}{\numberline {3.2}Gesteinsform}{9}{section.20}%
+\contentsline {section}{\numberline {3.3}Bruch(-flächen)}{9}{section.21}%
+\contentsline {chapter}{\numberline {4}Gemengeteile}{10}{chapter.22}%
+\contentsline {chapter}{\numberline {5}Struktur}{11}{chapter.23}%
+\contentsline {section}{\numberline {5.1}Kristallinität}{11}{section.24}%
+\contentsline {section}{\numberline {5.2}relative Korngröße}{11}{section.25}%
+\contentsline {section}{\numberline {5.3}Absolute Korngröße}{11}{section.26}%
+\contentsline {section}{\numberline {5.4}Kornform, Rundungsgrad, Oberflächen}{12}{section.27}%
+\contentsline {section}{\numberline {5.5}Sortierungsgrad, Kornverband}{12}{section.28}%
+\contentsline {section}{\numberline {5.6}Bindemittel}{13}{section.29}%
+\contentsline {section}{\numberline {5.7}Reife}{13}{section.30}%
+\contentsline {part}{\numberline {III}Gesteinsbestimmung von Magmatiten}{14}{part.31}%
+\contentsline {chapter}{\numberline {6}äußerliche Merkmale}{15}{chapter.32}%
+\contentsline {section}{\numberline {6.1}Farbe}{15}{section.33}%
+\contentsline {section}{\numberline {6.2}Gesteinsform/Größe}{15}{section.34}%
+\contentsline {section}{\numberline {6.3}Bruch/Spaltbarkeit}{15}{section.35}%
+\contentsline {section}{\numberline {6.4}Bruchflächen}{15}{section.36}%
+\contentsline {chapter}{\numberline {7}Gemengeteile}{16}{chapter.37}%
+\contentsline {section}{\numberline {7.1}Matrix}{16}{section.38}%
+\contentsline {section}{\numberline {7.2}Mineralbeschreibung}{16}{section.39}%
+\contentsline {subsection}{\nonumberline Farbe/Strichfarbe}{16}{section*.40}%
+\contentsline {subsection}{\nonumberline Glanz}{16}{section*.41}%
+\contentsline {subsection}{\nonumberline Transparenz}{16}{section*.42}%
+\contentsline {subsection}{\nonumberline Härte}{17}{section*.43}%
+\contentsline {subsection}{\nonumberline Bruch}{17}{section*.44}%
+\contentsline {subsection}{\nonumberline Spaltbarkeit}{17}{section*.45}%
+\contentsline {subsection}{\nonumberline Verzwillingung}{17}{section*.46}%
+\contentsline {subsection}{\nonumberline Habitus/Wuchsform}{18}{section*.47}%
+\contentsline {subsection}{\nonumberline Magnetismus}{18}{section*.48}%
+\contentsline {subsection}{\nonumberline Dichte}{18}{section*.49}%
+\contentsline {section}{\numberline {7.3}Gesteinsbruchstücke}{18}{section.50}%
+\contentsline {chapter}{\numberline {8}Struktur}{19}{chapter.51}%
+\contentsline {section}{\numberline {8.1}Korngröße}{19}{section.52}%
+\contentsline {section}{\numberline {8.2}Korngröße}{19}{section.53}%
+\contentsline {section}{\numberline {8.3}Korngrößenverteilung}{19}{section.54}%
+\contentsline {section}{\numberline {8.4}Korngrößenvergleich}{19}{section.55}%
+\contentsline {section}{\numberline {8.5}Grad der Kristallinität}{20}{section.56}%
+\contentsline {section}{\numberline {8.6}Kornform}{20}{section.57}%
+\contentsline {section}{\numberline {8.7}Kornbindung}{20}{section.58}%
+\contentsline {chapter}{\numberline {9}Textur}{21}{chapter.59}%
+\contentsline {section}{\numberline {9.1}Art der Raumfüllung}{21}{section.60}%
+\contentsline {section}{\numberline {9.2}räumliche Verteilung der Gefügeelemente}{21}{section.61}%
+\contentsline {section}{\numberline {9.3}Räumliche Orientierung der Gefügeelemente}{21}{section.62}%
+\contentsline {chapter}{\numberline {10}Bestimmung}{22}{chapter.63}%
+\contentsline {section}{\numberline {10.1}Magmatische Gesteine}{22}{section.64}%
+\contentsline {subsection}{\nonumberline <90\% Anteil mafischen Gesteins}{22}{section*.65}%
+\contentsline {subsubsection}{\nonumberline Plagioklasbestimmung}{23}{section*.66}%
+\contentsline {subsection}{\nonumberline mit >90\% Anteil mafischen Gesteins}{23}{section*.67}%
+\contentsline {part}{\numberline {IV}Wörterbuch}{24}{part.68}%
+\contentsline {chapter}{\numberline {11}Definitionen}{25}{chapter.69}%

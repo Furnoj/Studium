@@ -1,0 +1,171 @@
+
+
+
+
+\documentclass[a4paper,12pt]{scrartcl}
+
+\usepackage{amsmath}
+\usepackage{graphicx}
+
+\begin{document}
+
+\title{Tafelwerk Physik}
+\maketitle
+\section{Formeln}
+
+Median: 
+\begin{center}
+7,6; 0,843; $\boxed{0,98}$; 1,26; 1,46
+\end{center} 
+
+Schätzung des Mittelwertes: \\
+\begin{align*}
+\bar{x} = \dfrac{1}{n} \cdot \sum\limits_{i=1}^n (x_i)
+\end{align*} 
+
+Schätzung der Standartabweichung der Einzelwerte: \\
+\begin{align*}
+\Delta x = \sigma x = \sqrt{ \cfrac{\sum \limits_{i=1}^n (x_i - ]\bar{x})^2}{n-1}}
+\end{align*}
+
+Standartabweichung des Mittelwertes: \\
+\begin{align*}
+\Delta x = \sigma x = \sqrt{ \cfrac{\sum \limits_{i=1}^n (x_i - \bar{x})^2}{n \cdot (n-1)}}
+\end{align*}
+
+1. Raketengleichung\\
+$m \cdot \overrightarrow{a} = v_t \cdot m(t)+\overrightarrow{g} \cdot m$
+
+\begin{tabular}{ll}
+$v_t$ & Austrittsgeschwindigkeit\\
+k & k\\
+\end{tabular}
+
+Fehlerfortpflanzung:
+\Large
+\begin{multline*}
+y = f(x_1;x_2;x_n) \\
+\sigma y = (\frac{\delta f}{\delta x_1} \cdot \sigma x_1)^2 + (\frac{\delta f}{\delta x_2} \cdot \sigma x_2)^2 + \dotsb + (\frac{\delta f}{\delta x_n} \cdot \sigma x_n1)^2 \\
+\delta y = \sqrt{\sum\limits_{i=1}^n (\frac{\delta f}{\delta x_i} \cdot \sigma x_i)^2}
+\end{multline*}
+\\
+Wird die Statistische Verteilung der Einzelwerte in einem Histogramm betrachtet, ist die Wahrscheinlichkeit, dass $x$ im im Bereich $x-(x+ \Delta x)$ ist wie folgt: \\
+\Large
+\begin{align*}
+ f(x) = \frac{1}{\sigma \sqrt{2 \Pi}} \cdot e^{\frac{(x-\bar{x})^2}{2 \sigma ^2}}
+\end{align*}  
+\\
+\begin{tabular}{lc}
+
+
+träge Masse: & \Large $m_t = - \frac{m_{referenz} \cdot v_{referenz}}{v_t}$\\
+
+
+Kraft & $\overrightarrow{F} = m \cdot \overrightarrow{a}$\\
+Gravitation & $\overrightarrow{F_G} = G \cdot \frac{m_1 \cdot m_2 }{r^2}$\\
+Elektromagnetische WW: & $\overrightarrow{F_E} = \frac{1}{4 \Pi \cdot \varepsilon_0 \cdot \varepsilon_r} \cdot \frac{Q_1 \cdot Q_2}{r^2}$\\
+
+1. Raketengleichung & $m \cdot \overrightarrow{a} = V_T \cdot \frac{\delta m}{\delta t} + \overrightarrow{g} \cdot m$\\
+$V_T$ = v Ausströhm\\ & 
+\\
+2. Raketengleichung & $V_R(t)-V_R(0) = V_T \cdot ln [\frac{m_t}{m_0}]+\overrightarrow{g} \cdot t$\\
+\end{tabular}
+
+\newpage
+\textbf{Vorgänge an der festen Rolle}\\
+
+\begin{tabular}{ll}
+Zugkraft am Seil: & $Z = g \cdot \frac{2 m_1 \cdot m_2}{m_2+m_1}$\\
+
+Beschläunigung: & $a = \frac{m_2-m_1}{m_2+m_1}$\\
+\end{tabular}\\
+\\
+\textbf{Zugkraft im Kräftediagramm}\\
+
+\includegraphics[width=0.8\textwidth]{/home/joni/Dokumente/Uni/Mittschriften/Physik/Bilder/Kräftediagram}\\
+
+$F_1 = F_2 \cdot \frac{cos(\alpha_2)}{cos(\alpha_1)}$\\
+$F_2 = \frac{m \cdot g}{\frac{cos(\alpha_2)}{cos(\alpha_1)} \cdot sin(\alpha_1)+sin(\alpha_2)}$\\
+
+
+\newpage
+Freier Fall\\
+$t = \sqrt{\frac{2h}{g}}\\
+v = \sqrt{2gh}$\\
+
+bei einem Wurf senkrecht nach oben ist:\\
+$H(v_0) = h_0 - \frac{v_0^2}{2g}$\\
+
+ 
+elastischer Stoß:\\
+beide Körper bewegen sich mit unterschiedlicher Geschwindigkeit\\
+Sonderfall:\\
+beide Massen sind gleich groß: Die Körper tauschen die Geschwindigkeit\\
+$v_1' = \frac{m_1 \cdot v_1 + m_2 \cdot (2v_2 - v_1)}{m_1 + m_2}$\\
+
+vollkommen inelastischer Stoß:\\
+Beide Körper bewegen sich mit der gleichen Geschwindigkeit (kleben aneinander)\\
+$v'= \frac{m_1 \cdot v_1 + m_2 \cdot v_2}{(m_1+m_2)}$\\
+$\frac{\Delta E}{E} = \frac{m}{m+M}$\\
+\begin{tabular}{ll}
+m: & Masse vorher\\
+M: & gemeinsame Masse nachher\\
+\end{tabular}
+\\
+Schwerpunkt bei 2 Punktmassen\\
+$\overrightarrow{r} = \frac{m_1 \cdot \overrightarrow{r_1} + m_2 \cdot \overrightarrow{r_2}}{m_1 + m_2}$
+
+
+\newpage
+\section{Definitionen}
+\begin{enumerate}
+\item träge Masse: Fähigkeit eines Körpers sich zu wiedersetzten
+\item schwere Masse: Anziehung von Massen durch Gravitation
+\item Kraft: ist die Änderung des Impulses
+\item Elementare Wechselwirkungen
+\begin{center}
+\begin{tabular}{l|l|l|l}
+Wechselwirkung & Bedeutung & Reichweite & relative Stärke\\
+\hline
+starke & Kernkraft & kurz & 1\\
+elektromagnetische & Coulombkraft & groß & $10^{-2}$\\
+schwache & Radioaktivität & kurz & $10^{-13}$\\
+Gravitation & Masseanziehung & kurz & $10^{-38}$\\
+\end{tabular}
+\end{center}
+\item Zustandsgröße: eines Körpers bzw. eines Systhems von Massepunkten. \\
+\item Mechanische Energie: Beschreibt wie viel Arbeit von dem Körper oder dem Systhem von Massepunktten gelestet werden kann.
+\item Kräfte
+\begin{itemize}
+\item konservative Kräfte: geleistete Arbeit hängt vom Anfangs und Endpunkt der Bewegung ab. (nicht vom (Um)Weg!)\\
+Test: $\oint \overrightarrow{F}\delta\overrightarrow{s}=0$
+\item nicht-kosnervative Kräfte: Die geleistete Arbeit hängt vom Weg der Bewegung ab.\\
+Test: $\oint \overrightarrow{F}\delta\overrightarrow{s}>0$
+\end{itemize}
+\item innere Energie: z.B Wärme, chemische Energie\\
+\end{enumerate}
+
+
+\newpage
+\section{Sätze oder Ähnliches}
+Newtonsche Axiome:
+\begin{enumerate}
+\item Ein körper erfährt keine Beschäunigung, solange keine resultierende äußere Kraft auf ihn wirkt
+\begin{itemize}
+\item $\overrightarrow{a} = 0$ wenn $\overrightarrow{F} = 0$
+\end{itemize}
+\item Die Zeitliche Änderung des Impulses ist gleich einer Resultierenden  Kraft die auf ihn wirkt
+\begin{itemize}
+\item $\frac{\delta P}{\delta t} = m \cdot \overrightarrow{a}$
+\end{itemize}
+\item Aktion = -Reaktion
+\begin{itemize}
+\item $F_{AB} = -F_{BA}$
+\end{itemize}
+\item Energieerhaltungssatz: In einem abgeschlossenen Systhem bleibt die gesammt-Energie erhalten!
+\item elastischer Stoß: Die mechanische Energie bleibt erhalten.
+\item inelastischer Stoß: Die Gesammtenergie bleibt erhalten
+\end{enumerate}
+
+
+\end{document}

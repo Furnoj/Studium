@@ -1,0 +1,7 @@
+\babel@toc {ngerman}{}
+\contentsline {chapter}{\numberline {1}Erde}{2}%
+\contentsline {section}{\numberline {1.1}Europa}{2}%
+\contentsline {subsection}{\numberline {1.1.1}Italien}{2}%
+\contentsline {subsubsection}{\nonumberline Toskana}{2}%
+\contentsline {paragraph}{\nonumberline Florenz}{2}%
+\contentsline {subparagraph}{\nonumberline Dom}{2}%

@@ -1,0 +1,62 @@
+\babel@toc {ngerman}{}
+\contentsline {chapter}{\numberline {1}Erdaufbau}{4}{chapter.2}%
+\contentsline {section}{\numberline {1.1}Elemente}{4}{section.3}%
+\contentsline {subsection}{\numberline {1.1.1}Entstehung}{4}{subsection.4}%
+\contentsline {subsection}{\numberline {1.1.2}Ionen}{5}{subsection.5}%
+\contentsline {subsection}{\numberline {1.1.3}Koordination der Atome im Molekül}{5}{subsection.6}%
+\contentsline {subsection}{\numberline {1.1.4}Silikate}{6}{subsection.9}%
+\contentsline {section}{\numberline {1.2}Entstehung des Sonnensystems}{8}{section.10}%
+\contentsline {subsection}{\numberline {1.2.1}Orbitale Parameter der Erde}{8}{subsection.11}%
+\contentsline {section}{\numberline {1.3}Planeten}{8}{section.12}%
+\contentsline {section}{\numberline {1.4}Kometen}{9}{section.13}%
+\contentsline {section}{\numberline {1.5}Meteorite}{9}{section.14}%
+\contentsline {subsection}{\numberline {1.5.1}Impakte}{9}{subsection.15}%
+\contentsline {section}{\numberline {1.6}Atmosphäre und Leben}{10}{section.16}%
+\contentsline {subsection}{\numberline {1.6.1}Leben}{10}{subsection.17}%
+\contentsline {subsection}{\numberline {1.6.2}Atmosphäre}{11}{subsection.18}%
+\contentsline {section}{\numberline {1.7}Geschichte der Erde}{11}{section.19}%
+\contentsline {section}{\numberline {1.8}Schalenbau der Erde}{12}{section.20}%
+\contentsline {subsection}{\numberline {1.8.1}seismische Wellen}{12}{subsection.21}%
+\contentsline {subsection}{\numberline {1.8.2}Ausbreitungsgeschwindigkeit seismischer Wellen}{13}{subsection.24}%
+\contentsline {section}{\numberline {1.9}Geothermie}{13}{section.25}%
+\contentsline {section}{\numberline {1.10}Magnetismus}{14}{section.31}%
+\contentsline {section}{\numberline {1.11}Platenteltonik}{14}{section.32}%
+\contentsline {subsection}{\numberline {1.11.1}Magnetisches Streifenmuster am Meeresboden}{14}{subsection.33}%
+\contentsline {section}{\numberline {1.12}Lithosphärenplatten}{15}{section.34}%
+\contentsline {subsection}{\numberline {1.12.1}Bewegung der Platten}{15}{subsection.38}%
+\contentsline {subsection}{\numberline {1.12.2}Typen von Plattengrenzen}{16}{subsection.41}%
+\contentsline {subsubsection}{\nonumberline Blattverschiebung an Plattengrenzen}{16}{section*.42}%
+\contentsline {section}{\numberline {1.13}Erdbeben und Plattengrenzen}{17}{section.43}%
+\contentsline {subsection}{\numberline {1.13.1}Präventionen}{17}{subsection.44}%
+\contentsline {subsection}{\numberline {1.13.2}Ursache}{17}{subsection.45}%
+\contentsline {section}{\numberline {1.14}Erdbebenlokation}{17}{section.46}%
+\contentsline {section}{\numberline {1.15}Herdflächenlösung}{18}{section.47}%
+\contentsline {section}{\numberline {1.16}Erdbebenstärken}{19}{section.48}%
+\contentsline {subsection}{\numberline {1.16.1}Momenten-Magnetudenskala}{19}{subsection.49}%
+\contentsline {subsection}{\numberline {1.16.2}Verhalten beim Erdbeben}{19}{subsection.53}%
+\contentsline {section}{\numberline {1.17}vulkanismus}{19}{section.54}%
+\contentsline {subsection}{\numberline {1.17.1}(Silikat-)Schmelzen}{20}{subsection.55}%
+\contentsline {section}{\numberline {1.18}Ozeanische Kruste}{20}{section.56}%
+\contentsline {subsection}{\numberline {1.18.1}mittelozeanische Rücken}{20}{subsection.57}%
+\contentsline {subsection}{\numberline {1.18.2}Tiefseebergketten}{20}{subsection.58}%
+\contentsline {subsection}{\numberline {1.18.3}submariner Vulkanismus}{21}{subsection.59}%
+\contentsline {section}{\numberline {1.19}Aufbau der ozeanischen Kruste}{22}{section.60}%
+\contentsline {section}{\numberline {1.20}Gebirgsbildung}{24}{section.61}%
+\contentsline {section}{\numberline {1.21}Metamorphose}{24}{section.62}%
+\contentsline {subsection}{\numberline {1.21.1}Metamophe Gesteine ohne Schieferung}{24}{subsection.63}%
+\contentsline {subsection}{\numberline {1.21.2}Matamorphe Gefüge in geblätterten Mineralen}{24}{subsection.64}%
+\contentsline {section}{\numberline {1.22}Verwitterung}{25}{section.65}%
+\contentsline {subsection}{\numberline {1.22.1}Gesteinsverwitterung}{25}{subsection.66}%
+\contentsline {subsection}{\numberline {1.22.2}chemische Verwitterung}{25}{subsection.67}%
+\contentsline {subsection}{\numberline {1.22.3}Bodenverwitterung}{25}{subsection.71}%
+\contentsline {subsection}{\numberline {1.22.4}Bodenerosion}{26}{subsection.72}%
+\contentsline {section}{\numberline {1.23}Massenbewegung und Erosion}{26}{section.73}%
+\contentsline {subsection}{\numberline {1.23.1}Klassifikation von Massebewegungen}{26}{subsection.74}%
+\contentsline {chapter}{\numberline {2}Sedimente und Erdgeschichte}{27}{chapter.75}%
+\contentsline {section}{\numberline {2.1}terigene klastische Sedimente}{27}{section.76}%
+\contentsline {subsection}{\numberline {2.1.1}Löss}{27}{subsection.77}%
+\contentsline {section}{\numberline {2.2}vulkano-klastische Sedimente}{27}{section.78}%
+\contentsline {section}{\numberline {2.3}biiogene Karbonate}{28}{section.79}%
+\contentsline {section}{\numberline {2.4}Evaporite}{29}{section.80}%
+\contentsline {section}{\numberline {2.5}andere Sedimente und Kohle}{29}{section.81}%
+\contentsline {subsection}{\numberline {2.5.1}Schwarzschiefer im Meer}{29}{subsection.82}%
